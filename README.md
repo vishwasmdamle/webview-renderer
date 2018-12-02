@@ -1,0 +1,2 @@
+### Android application to render any URLs in a Webview with/without JS & DOM storage enabled, check the functionality, JS & styling, extract the console logs, etc.
+Follows no Android conventions and coding standards.
